@@ -4,7 +4,7 @@ I'm a Neuroscience PhD focused on experimental data pipelines and hardware–sof
 
 ### Experimental data pipelines
 
-Handling multi-day data from sensors, behavior, and imaging from raw export to analysis-ready formats. QC, metadata alignment, and improving upon vendor software limitations.  
+Handling multi-day data from sensors, behavior, and imaging. Building data pipelines from raw export to analysis-ready formats. QC, metadata alignment, and improving upon vendor software limitations.  
 
 * `uid`: [check repo](https://github.com/matiasandina/uid)
 
